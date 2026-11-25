@@ -1,0 +1,20 @@
+This is a basic 3D printed case of the Estardyn DIY FM Radio Receiver Kit Wireless Stereo PCB Module 76-108MHz DC 1.8-3.6V found on online shopping stores like AliExpress. 
+https://www.aliexpress.us/item/3256812394028403.html?utm_source=chatgpt.com
+
+- All info resources necessary to print this case are available in this repository (message if not and I will add them).
+- There exists no commit history here because I manually version controlled without Git (should have just used Git). 
+
+Printing Recommendations: 
+- After printing, it's going to be pretty hard to get the supports off. I recommend using some flush clippers and goggles to cut and peel off the supports. The models are all in positions that use the least amount of supports already. 
+- Make sure that near the headphone hole, the one that goes through one of the top clips, that you don't pull it off when pulling off the supports. It's a lot stronger than the supports but one might pull it off without thinking about it. 
+
+Materials:
+- Used PLA 2.0+ 1.75mm (some others may not be strong enough - use at discretion). 
+- Used Flashforge AD5X 3D printer
+
+Slicer Settings:
+The settings are a part of the sliced file. Here's a summary below:
+- UltiMaker Cura
+    - 60mm/sec base extruder movement speed (qualitative - go faster if you like, I just did this to avoid errors from going too fast)
+    - 220C Extruder temperature
+    - 60C Base pad temperature
