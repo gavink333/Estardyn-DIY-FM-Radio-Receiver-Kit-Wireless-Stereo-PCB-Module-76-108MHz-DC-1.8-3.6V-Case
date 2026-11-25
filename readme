@@ -3,6 +3,7 @@ https://www.aliexpress.us/item/3256812394028403.html?utm_source=chatgpt.com
 
 - All info resources necessary to print this case are available in this repository (message if not and I will add them).
 - There exists no commit history here because I manually version controlled without Git (should have just used Git). 
+- The top clip FreeCAD file got messed up somehow and it's just solid without editable subpieces. This would have been prevented had I used Git during the length of the project. 
 
 Printing Recommendations: 
 - After printing, it's going to be pretty hard to get the supports off. I recommend using some flush clippers and goggles to cut and peel off the supports. The models are all in positions that use the least amount of supports already. 
